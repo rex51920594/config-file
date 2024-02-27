@@ -1,5 +1,5 @@
 test:
-  text: 'test2'
+  text: 'test3'
 # /actuator/refresh 这个 Endpoint 暴露出来
 management:
   endpoints:
